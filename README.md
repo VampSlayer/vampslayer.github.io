@@ -7,3 +7,5 @@
 [cv](https://vampslayer.github.io/cv)
 
 [infra-diagrams](https://vampslayer.github.io/infra-diagrams)
+
+[feature-forge](https://vampslayer.github.io/feature-forge)
